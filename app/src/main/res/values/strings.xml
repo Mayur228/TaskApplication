@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskApplication</string>
+    <string name="your_result">Your result</string>
+    <string name="calculate">Calculate</string>
+    <string name="enter_numbers_separated_by_commas">Enter numbers separated by commas</string>
+    <string name="result">Your Result for Intersect: %s \nUnion: %s \nMaxNumber: %d</string>
+</resources>
